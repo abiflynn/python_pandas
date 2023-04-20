@@ -14,7 +14,7 @@
 - Challenge 4: answering questions about the authors/publishers/employees/stores
 - Challenge 5: answering questions using regex 
 - Challenge 6: selecting answers between two certain values
-- Challenge 7: 
+- Challenge 7: answering questions using other methods .groupby, .sort_values, .aggregate
 - Challenge 8: 
 - Challenge 9: 
 - Challenge 10: 
