@@ -19,7 +19,7 @@
 - Challenge 9: merging dataframes to answer questions
 - Challenge 10: creating new columns and using numpy
 - Challenge 11: answering questions about books / authors / royalties
-- Challenge 12: 
+- Challenge 12: data visualisation
 - Challenge 13: 
 - Challenge 14: 
 - Challenge 15: 
