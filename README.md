@@ -6,6 +6,8 @@
 
 **1.1 Objectives**
 
+Introduction to python and pandas. Pandas is a library that was built on top of the Python programming language. Its aim is to facilitate data analysis and manipulation. For these purposes, pandas is fast, powerful, flexible, easy to use and open source, and therefore widely used in both academia and the industry. Objective to use pandas functions and methods to analysis data thoiughr various challenges.  
+
 **1.2 Challenges:** 
 
 - Challenge 1: dataframes / selecting columns / renaming columns / unique values
@@ -22,9 +24,6 @@
 - Challenge 12: data visualisation
 - Challenge 13: filtering data based on conditions and string operations
 - Challenge 14: data cleaning using strip, replace, regex
-- Challenge 15:
-- Challenge 15: 
-
 
 **1.3 Technical Skills** 
 
