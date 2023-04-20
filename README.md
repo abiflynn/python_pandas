@@ -13,7 +13,7 @@
 - Challenge 3: answering questions about the sales/units/asp
 - Challenge 4: answering questions about the authors/publishers/employees/stores
 - Challenge 5: answering questions using regex 
-- Challenge 6: 
+- Challenge 6: selecting answers between two certain values
 - Challenge 7: 
 - Challenge 8: 
 - Challenge 9: 
