@@ -16,7 +16,7 @@
 - Challenge 6: selecting answers between two certain values
 - Challenge 7: answering questions using other methods .groupby, .sort_values, .aggregate
 - Challenge 8: using multiple methods and functions
-- Challenge 9: 
+- Challenge 9: merging dataframes to answer questions
 - Challenge 10: 
 - Challenge 11: 
 - Challenge 12: 
