@@ -10,7 +10,7 @@
 
 - Challenge 1: dataframes / selecting columns / renaming columns / unique values
 - Challenge 2: selecting columns equal to certain values
-- Challenge 3: 
+- Challenge 3: answering questions about the dataset
 - Challenge 4: 
 - Challenge 5: 
 - Challenge 6: 
