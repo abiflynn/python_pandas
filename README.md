@@ -10,7 +10,7 @@
 
 -
 
-**1.3 Technical Skills*** 
+**1.3 Technical Skills** 
 
 - Python
 - Pandas 
