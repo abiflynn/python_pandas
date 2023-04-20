@@ -15,7 +15,7 @@
 - Challenge 5: answering questions using regex 
 - Challenge 6: selecting answers between two certain values
 - Challenge 7: answering questions using other methods .groupby, .sort_values, .aggregate
-- Challenge 8: 
+- Challenge 8: using multiple methods and functions
 - Challenge 9: 
 - Challenge 10: 
 - Challenge 11: 
