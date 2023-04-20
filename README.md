@@ -21,11 +21,13 @@
 - Challenge 11: answering questions about books / authors / royalties
 - Challenge 12: data visualisation
 - Challenge 13: filtering data based on conditions and string operations
-- Challenge 14: 
+- Challenge 14: data cleaning using strip, replace, regex
+- Challenge 15:
 - Challenge 15: 
 
 
 **1.3 Technical Skills** 
 
 - Python
-- Pandas 
+- Pandas
+- Numpy
