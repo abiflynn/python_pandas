@@ -1,6 +1,6 @@
 # Introduction to Python Pandas
 
-## 1. Project Objectives & Overview
+## 1. Project Objectives & Overview
 
 ### 1.1 Objectives
 
