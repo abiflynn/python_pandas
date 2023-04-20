@@ -20,7 +20,7 @@
 - Challenge 10: creating new columns and using numpy
 - Challenge 11: answering questions about books / authors / royalties
 - Challenge 12: data visualisation
-- Challenge 13: 
+- Challenge 13: filtering data based on conditions and string operations
 - Challenge 14: 
 - Challenge 15: 
 
