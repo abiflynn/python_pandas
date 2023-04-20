@@ -17,7 +17,7 @@
 - Challenge 7: answering questions using other methods .groupby, .sort_values, .aggregate
 - Challenge 8: using multiple methods and functions
 - Challenge 9: merging dataframes to answer questions
-- Challenge 10: 
+- Challenge 10: creating new columns and using numpy
 - Challenge 11: 
 - Challenge 12: 
 - Challenge 13: 
