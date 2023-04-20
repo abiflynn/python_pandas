@@ -12,7 +12,7 @@
 - Challenge 2: selecting columns equal to certain values
 - Challenge 3: answering questions about the sales/units/asp
 - Challenge 4: answering questions about the authors/publishers/employees/stores
-- Challenge 5: 
+- Challenge 5: answering questions using regex 
 - Challenge 6: 
 - Challenge 7: 
 - Challenge 8: 
